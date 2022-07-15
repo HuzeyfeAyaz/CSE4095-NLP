@@ -3,11 +3,11 @@ Term Project Artifacts of Group 1 - CSE4095 Natural Language Processing, Spring 
 Department of Computer Engineering, Marmara University, Istanbul, Turkey
 
 ## Group Members:
+* Huzeyfe Ayaz ([@HuzeyfeAyaz](https://github.com/HuzeyfeAyaz))
 * Ali Reza Ibrahimzada ([@alibrahimzada](https://github.com/alibrahimzada))
-* Basil Osama Hamid Elkhalifa ([@basilelkhalifa](https://github.com/basilelkhalifa))
 * Muhammed Fatih Öztel ([@muhammed-oztel](https://github.com/muhammed-oztel))
 * Yunus Ahmed Stahlschmidt ([@YunusStahlschmidt](https://github.com/YunusStahlschmidt))
-* Huzeyfe Ayaz ([@HuzeyfeAyaz](https://github.com/HuzeyfeAyaz))
+* Basil Osama Hamid Elkhalifa ([@basilelkhalifa](https://github.com/basilelkhalifa))
 * Sameeh N. O. Kunbargi ([@SamNK](https://github.com/SamNK))
 
 ## Supervisor:
